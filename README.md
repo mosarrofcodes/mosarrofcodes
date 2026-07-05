@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mosarrofcodes" alt="mosarrofcodes" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mosarrofcodes&theme=radical&no-frame=true&margin-w=15" alt="mosarrofcodes trophies" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently building scalable **Web Applications** and problem-solving tools.
-- 🌱 I’m currently learning advanced **Next.js, Flutter**, and exploring deeper into core CS concepts like **Automata Theory and Formal Languages**.
+- 🌱 I’m currently learning advanced **Next.js, Flutter**, and exploring **Cyber Security**, specifically working with **Intrusion Detection Systems (IDS)**.
 - 💬 Ask me about **React, Next.js, Node.js, Express.js, Flutter, Git & GitHub**
 - 📫 How to reach me: **[royhed.mosarrouf1@gmail.com](mailto:royhed.mosarrouf1@gmail.com)**
 - ⚡ Fun fact: **I enjoy bridging theoretical computer science with practical software engineering to build optimized solutions.**
@@ -35,7 +35,13 @@
 ### 🤝 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/royhed-mosarrof" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/royhedmosarrof" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:royhed.mosarrouf1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -82,6 +88,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mosarrofcodes&show_icons=true&locale=en" alt="mosarrofcodes stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosarrofcodes&" alt="mosarrofcodes streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mosarrofcodes&show_icons=true&theme=radical&hide_border=true&locale=en" alt="mosarrofcodes stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosarrofcodes&theme=radical&hide_border=true" alt="mosarrofcodes streak" width="48%" />
 </p>
